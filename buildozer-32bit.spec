@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Mortgage Calculator
+title = life counter
 
 # (str) Package name
 package.name = life_counter
